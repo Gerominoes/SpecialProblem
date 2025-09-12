@@ -1,0 +1,3 @@
+[submodule "external/Start-Kit"]
+	path = external/Start-Kit
+	url = https://github.com/MAPF-Competition/Start-Kit
