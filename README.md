@@ -22,10 +22,10 @@ Experiments here will run on a lower-specced laptop than the authors’ VM. Expe
 - RAM: 16 GB @ 2667 MT/s
 
 ## Repo Layout
-/docs → notes, protocol, paper excerpts
-/src → implementations and experiment runners
-/data → maps, scenarios, configs
-/results → logs, figures, tables
+- /docs → notes, protocol, paper excerpts
+- /src → implementations and experiment runners
+- /data → maps, scenarios, configs
+- /results → logs, figures, tables
 
 ## Goals
 1. Reproduce experimental setup and datasets.
