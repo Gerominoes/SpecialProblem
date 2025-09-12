@@ -7,7 +7,7 @@ DOI: https://doi.org/10.3390/systems13050331
 ## Dataset (from the paper’s Notes)
 Primary sources used by the authors:
 - League of Robot Runners: https://www.leagueofrobotrunners.org/
-- MAPF Competition Benchmark Archive (2023): https://github.com/MAPF-Competition/Benchmark-Archive/tree/main/2023Competition
+- MAPF Competition Benchmark Archive (2023): https://github.com/MAPF-Competition/Benchmark-Archive/tree/main/2023%20Competition
 - MAPF Competition Code Archive – Team_JOliver (2023): https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_JOliver
 
 > Data Availability (paper): “Dataset available on request from the authors.”
