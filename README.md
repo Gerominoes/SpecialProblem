@@ -19,7 +19,7 @@ Experiments here will run on a lower-specced laptop than the authors’ VM. Expe
 - OS: Linux Mint 22.2 Cinnamon  
 - CPU: Intel Core i7-10510U (4C/8T) @ 1.80 GHz  
 - GPU: NVIDIA GeForce MX230  
-- RAM: 16 GB @ 2667 MT/s
+- RAM: SODIMM DDR4 16 GB (8GBx2) @ 2667 MT/s
 
 ## Repo Layout
 - /docs → notes, protocol, paper excerpts
